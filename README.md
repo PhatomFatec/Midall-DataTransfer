@@ -2,7 +2,7 @@
 **Cliente:** <a href="https://www.midall.com.br//">MidAll</a>
 
 <br><p align="center">
- <a href="https://www.midall.com.br/"><img src="https://cdn.discordapp.com/attachments/887890002741170176/1086442721377517698/download-removebg-preview.png"/></a>
+ <a href="https://www.midall.com.br/"><img src="https://cdn.discordapp.com/attachments/887890002741170176/10864manu42721377517698/download-removebg-preview.png"/></a>
 </p>
 
 <p align="center"> 
@@ -103,7 +103,7 @@ Desenvolvemos uma plataforma web que organiza todos os dados referentes aos serv
 <br>
 
 ## Executando o programa 
-Acesse o passo a passo de como executar o programa clicando [AQUI](https://github.com/PhatomFatec/API_SUBITER/blob/main-back/README2.md).
+Acesse o passo a passo de como executar o programa clicando [AQUI](https://github.com/PhatomFatec/datatransfer-back/blob/8cf60c91e62dfdb093f0172d0c382152d15f3e91/Readme.md).
 
 <br>
 
