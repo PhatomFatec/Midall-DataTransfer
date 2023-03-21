@@ -1,9 +1,8 @@
-# Subiter Call
-**Phantom Apresenta:** Projeto Integrador, Fatec Prof. Jessen Vidal - 2022. 4° Semestre <br>
-**Cliente:** <a href="https://www.subiter.com/">Subiter</a>
+**Phantom Apresenta:** Projeto Integrador, Fatec Prof. Jessen Vidal - 2022. 5° Semestre <br>
+**Cliente:** <a href="https://www.midall.com.br//">MidAll</a>
 
-<p align="center">
- <img src="https://user-images.githubusercontent.com/80851038/190831621-96d01aab-af9f-4b9b-a7c5-9e6419d287bb.jpeg" width="35%">
+<br><p align="center">
+ <a href="https://www.midall.com.br/"><img src="https://cdn.discordapp.com/attachments/887890002741170176/1086442721377517698/download-removebg-preview.png"/></a>
 </p>
 
 <p align="center"> 
@@ -21,7 +20,14 @@
 
 <h3 align="center">Problema</h3>
 <p align="justify">
-Temos um desafio de sincronização dos dados administrativos, financeiros e operacionais referentes aos serviços prestados pela empresa. A falta de organização dos dados acarreta lentidão para atender chamados, e confusão na interpretação dos indicadores comerciais e financeiros.
+Automatizar a jornada de download dos arquivos, armazenados em uma plataforma de vídeos,
+realizando essa transferência para cloud, através do desenvolvimento de uma aplicação como
+serviço, tendo como funcionalidade com o usuário somente um menu de configuração, que terão
+os parâmetros necessários para que o serviço de download processe automaticamente, gerando
+alertas caso ocorra erro no processamento. Salvar os metadados dos arquivos, para construção de
+um dashboard para acompanhamento da execução do serviço e posterior análise de resultados e
+indicadores (ex: quantidade de arquivos transferidos, quantidade de bytes transferidos, tempo de
+transferência e etc).
 </p>
 
 <h3 align="center">Solução</h3>
@@ -37,7 +43,6 @@ Desenvolvemos uma plataforma web que organiza todos os dados referentes aos serv
  - [Tecnologias](#tecnologias-utilizadas)
  - [Requisitos](#requisitos)
  - [Product Backlog](#product-backlog)  
- - [Sprints](#sprints)
  - [Execução do Programa](#executando-o-programa)
  - [Cronograma](#cronograma)
  - [Equipe](#equipe-phantom)
@@ -65,20 +70,26 @@ Desenvolvemos uma plataforma web que organiza todos os dados referentes aos serv
 
 ### 📌 Requisitos Funcionais
 
-- Cadastros de usuários e horários
-- Cadastros de produtos do cliente (modelo, número de série etc.)
-- Usuários devem ter perfis diferentes (administrador, suporte, cliente)
-- Registro de chamados
-- Acompanhamento de chamados de ponta a ponta
-- Front-end para entrada e interpretação de dados
-- Ferramenta para criação (desenho) e visualização dos “Mapas de Anomalias”
+#### Aplicação 1:
+
+ - Construir uma aplicação que rodará servidor local para configuração e parametrização do serviço.
+ - Nessa aplicação, criar tela para configuração do sistema (com todas as configurações que a aplicação atual já tem) incluindo também a limitação de consumo de banda de rede e tempo para verificação de novos arquivos para download
+ - Criar também, tela para configuração da conta de acesso a api (guardar de um jeito seguro).
+ - Emitir alerta no S.O. avisando que novos arquivos foram baixados
+ - Criar tela de histórico de arquivos baixados
+
+#### Aplicação 2:
+
+ - Construir uma API que será o serviço que buscará os arquivos que devem ser enviados para Cloud
+ - Conectar com a api de arquivos (utilizar outro fornecedor, diferente do usado no requisito anterior. Pode ser Google Drive, AWS S3, Dropbox e etc.)
+ - Realizar o download dos arquivos, seguindo as configurações realizadas na aplicação 1.
+ - Criar dashboard para acompanhamento das execuções (pode ser construído em alguma ferramenta de BI, movendo os dados do banco locar para outro)
 
 ### 📌 Requisitos Não Funcionais
 
-- Linguagem Java Web Server-Side
-- Vue.js ou Flutter
-- PL / SQL
-- GIT
+#### Aplicação 1:
+
+ - Criar mecanismo de autenticação com a aplicação 2, hospedada na nuvem (para não aceitar requisição de locais não autorizados)
 
 <br>
 
@@ -86,18 +97,9 @@ Desenvolvemos uma plataforma web que organiza todos os dados referentes aos serv
 
 <p align="center"> 
 <img src="https://user-images.githubusercontent.com/80851038/190932627-dec3b2eb-fcb7-486d-a563-6096a2e1e7ec.png" width="300"/> <br>
-| <a href="https://apisubiter.atlassian.net/jira/software/c/projects/AS/boards/1/backlog?view=detail&issueLimit=1006">Product Backlog </a> |
+| <a href="https://apisubiter.atlassian.net/jira/software/projects/MID/boards/2/backlog">Product Backlog </a> |
 </p>
-
-<br>
-
-## Sprints
-Para mais informações sobre as entregas e sobre o conteúdo do projeto, veja cada uma de nossas sprints realizadas ao longo do semestre: <br>
-
-- [x] [Sprint 01](https://github.com/PhatomFatec/API_SUBITER/tree/main/Sprints/Sprint01) ✔️
  
-
-
 <br>
 
 ## Executando o programa 
@@ -125,7 +127,7 @@ Acesse o passo a passo de como executar o programa clicando [AQUI](https://githu
 [<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white&color=black"/>](https://github.com/mvarocha)
 
 
-* **DEV** - Igor Ribeiro Silva &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+* **DEV** - Igor Ribeiro Silva &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black"/>](https://www.linkedin.com/in/igor-ribeiro-8571a6210/)
 [<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white&color=black"/>](https://github.com/IgorRibeiro-S)
 
