@@ -30,10 +30,6 @@ indicadores (ex: quantidade de arquivos transferidos, quantidade de bytes transf
 transferência e etc).
 </p>
 
-<h3 align="center">Solução</h3>
-<p align="justify">
-Desenvolvemos uma plataforma web que organiza todos os dados referentes aos serviços prestados pela empresa, de forma interpretada, cujo o principal objetivo é criar chamados e agendamentos conforme as necessidades do cliente e solucioná-los de forma ponta a ponta entre a relação do cliente com o suporte e, suporte com a do administrador que, trabalha na criação e sincronização dos dados em um único lugar.
-</p>
 
 <br>
 
