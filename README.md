@@ -2,7 +2,7 @@
 **Cliente:** <a href="https://www.midall.com.br//">MidAll</a>
 
 <br><p align="center">
- <a href="https://www.midall.com.br/"><img src="https://cdn.discordapp.com/attachments/887890002741170176/10864manu42721377517698/download-removebg-preview.png"/></a>
+ <a href="https://www.midall.com.br/"><img src="https://user-images.githubusercontent.com/80851038/163725778-498ec2e9-e8eb-45cf-a586-848e5bb1dd97.png" width="110"/></a>
 </p>
 
 <p align="center"> 
