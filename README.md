@@ -9,7 +9,7 @@
  <img src="https://img.shields.io/badge/Status%3A-Building-orange"/>
  <a href="https://www.java.com/pt-BR/"><img src="https://img.shields.io/badge/Language%3A-JAVA-red"/></a>
  <a href="https://vuejs.org/"><img src="https://img.shields.io/badge/Language%3A-VUE.js-green"/></a>
- <a href="https://www.midall.com.br/"><img src="https://img.shields.io/badge/Client%3A-Subiter-orange"/></a>
+ <a href="https://www.midall.com.br/"><img src="https://img.shields.io/badge/Client%3A-MidAll-purple"/></a>
  <a href="http://fatecsjc-prd.azurewebsites.net/"><img src="https://img.shields.io/badge/Institution%3A-Fatec-red"/></a>
 </p>
 
