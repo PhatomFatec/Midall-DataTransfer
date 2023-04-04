@@ -92,8 +92,7 @@ transferência e etc).
 ## Product Backlog
 
 <p align="center"> 
-<img src="https://user-images.githubusercontent.com/80851038/190932627-dec3b2eb-fcb7-486d-a563-6096a2e1e7ec.png" width="300"/> <br>
-| <a href="https://apisubiter.atlassian.net/jira/software/projects/MID/boards/2/backlog">Product Backlog </a> |
+<img src="https://media.discordapp.net/attachments/887890002741170176/1092600909663567962/Group_40.png?width=952&height=562" width="800"/> <br>
 </p>
  
 <br>
@@ -101,7 +100,7 @@ transferência e etc).
 ## Sprint Burndown
 
 <p align="center"> 
-<img src="https://media.discordapp.net/attachments/887890002741170176/1091490215652237412/image.png?width=889&height=507"/> <br>
+<img src="https://media.discordapp.net/attachments/887890002741170176/1092601514784202833/WhatsApp_Image_2023-04-03_at_21.07.52.jpeg?width=876&height=507"/> <br>
 </p>
 
 
@@ -117,8 +116,8 @@ Acesse o passo a passo de como executar o programa clicando [AQUI](https://githu
 | Eventos         | Início   | Fim      | Status |
 |-----------------|----------|----------|--------|
 | **Kick off**    | 13/02/23 | 03/03/23 |   ✔️ Realizado      |
-| **Sprint 01**   | 13/03/23 | 02/04/23 |   ⚙ Em progresso       |
-| **Sprint 02**   | 03/04/23 | 23/04/23 |   ❌ Realizado      |
+| **Sprint 01**   | 13/03/23 | 02/04/23 |   ✔️ Realizado       |
+| **Sprint 02**   | 03/04/23 | 23/04/23 |   ⚙ Em progresso       |
 | **Sprint 03**   | 24/04/23 | 14/05/23 |   ❌ Realizado      |
 | **Sprint 04**   | 15/05/23 | 04/06/23 |   ❌ Realizado      |
 | **Apresentação final + Feira de Soluções** | 13/06/23 | 14/06/23 |   ❌ Realizado  |
