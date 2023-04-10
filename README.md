@@ -116,10 +116,10 @@ Acesse o passo a passo de como executar o programa clicando [AQUI](https://githu
 | Eventos         | Início   | Fim      | Status |
 |-----------------|----------|----------|--------|
 | **Kick off**    | 13/02/23 | 03/03/23 |   ✔️ Realizado      |
-| **Sprint 01**   | 13/03/23 | 02/04/23 |   ✔️ Realizado       |
-| **Sprint 02**   | 03/04/23 | 23/04/23 |   ⚙ Em progresso       |
-| **Sprint 03**   | 24/04/23 | 14/05/23 |   ❌ Realizado      |
-| **Sprint 04**   | 15/05/23 | 04/06/23 |   ❌ Realizado      |
+| [Sprint 01](https://github.com/PhatomFatec/Midall-DataTransfer/blob/main/Sprints/Sprint01.md)   | 13/03/23 | 02/04/23 |   ✔️ Realizado       |
+| [Sprint 02](https://github.com/PhatomFatec/Midall-DataTransfer/blob/main/Sprints/Sprint02.md)   | 03/04/23 | 23/04/23 |   ⚙ Em progresso       |
+| [Sprint 03](https://github.com/PhatomFatec/Midall-DataTransfer/blob/main/Sprints/Sprint03.md)   | 24/04/23 | 14/05/23 |   ❌ Realizado      |
+| [Sprint 04](https://github.com/PhatomFatec/Midall-DataTransfer/blob/main/Sprints/Sprint04.md)   | 15/05/23 | 04/06/23 |   ❌ Realizado      |
 | **Apresentação final + Feira de Soluções** | 13/06/23 | 14/06/23 |   ❌ Realizado  |
 
 <br>
