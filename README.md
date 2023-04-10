@@ -107,7 +107,7 @@ transferência e etc).
 <br>
 
 ## Executando o programa 
-Acesse o passo a passo de como executar o programa clicando [AQUI](https://github.com/PhatomFatec/datatransfer-back/blob/8cf60c91e62dfdb093f0172d0c382152d15f3e91/Readme.md).
+Acesse o passo a passo de como executar o programa clicando [AQUI](https://github.com/PhatomFatec/datatransfer-back/blob/main/Readme.md).
 
 <br>
 
