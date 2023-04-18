@@ -97,15 +97,6 @@ transferência e etc).
  
 <br>
 
-## Sprint Burndown
-
-<p align="center"> 
-<img src="https://media.discordapp.net/attachments/887890002741170176/1092601514784202833/WhatsApp_Image_2023-04-03_at_21.07.52.jpeg?width=876&height=507"/> <br>
-</p>
-
-
-<br>
-
 ## Executando o programa 
 Acesse o passo a passo de como executar o programa clicando [AQUI](https://github.com/PhatomFatec/datatransfer-back/blob/main/Readme.md).
 
