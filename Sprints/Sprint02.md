@@ -39,7 +39,7 @@ As tarefas desenvolvidas para essa segunda sprint serão:
 <br>
 
 <p align="center"> 
-<img src="https://media.discordapp.net/attachments/870416846338273280/1097665715982585937/Imagem_do_WhatsApp_de_2023-04-17_as_20.30.19.jpg?width=846&height=562"/> <br>
+<img src="https://media.discordapp.net/attachments/887890002741170176/1100206995103031407/backlog_2.jpg?width=925&height=562"/> <br>
 </p>
 
 <br>
