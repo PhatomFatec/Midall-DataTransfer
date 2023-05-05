@@ -1,5 +1,5 @@
-**Phantom Apresenta:** Projeto Integrador, Fatec Prof. Jessen Vidal - 2022. 5° Semestre <br>
-**Cliente:** <a href="https://www.midall.com.br//">MidAll</a>
+**Phantom Presents:** Integrator Project, Fatec Prof. Jessen Vidal - 2022. 5th Semester <br>
+**Client:** <a href="https://www.midall.com.br//">MidAll</a>
 
 <br><p align="center">
  <a href="https://www.midall.com.br/"><img src="https://user-images.githubusercontent.com/80851038/163725778-498ec2e9-e8eb-45cf-a586-848e5bb1dd97.png" width="110"/></a>
@@ -14,46 +14,44 @@
 </p>
 
 <p align="center">
- <a href="#executando-o-programa">Executando o Programa</a> |  <a href="#tecnologias-utilizadas">Tecnologias</a> |  <a href="#cronograma">Cronograma</a> 
- |  <a href="#equipe-phantom">Equipe</a>
+ <a href="#executing-the-application">Executing the application</a> |  <a href="#technologies-used">Technologies</a> |  <a href="#timeline">Timeline</a> 
+ |  <a href="#team-phantom">Team</a>
 </p>
 
-<h3 align="center">Problema</h3>
+<h3 align="center">Problem</h3>
 <p align="justify">
-Automatizar a jornada de download dos arquivos, armazenados em uma plataforma de vídeos,
-realizando essa transferência para cloud, através do desenvolvimento de uma aplicação como
-serviço, tendo como funcionalidade com o usuário somente um menu de configuração, que terão
-os parâmetros necessários para que o serviço de download processe automaticamente, gerando
-alertas caso ocorra erro no processamento. Salvar os metadados dos arquivos, para construção de
-um dashboard para acompanhamento da execução do serviço e posterior análise de resultados e
-indicadores (ex: quantidade de arquivos transferidos, quantidade de bytes transferidos, tempo de
-transferência e etc).
+Automate the file download journey, stored on a video platform,
+making this transfer to the cloud, through the development of an application like
+service, having as functionality with the user only a configuration menu, which will have
+the necessary parameters for the download service to process automatically, generating
+alerts if processing errors occur. Save file metadata for building
+a dashboard for monitoring the execution of the service and subsequent analysis of results and
+indicators (e.g. number of files transferred, number of bytes transferred, time of
+transfer, etc.).
 </p>
 
 
 <br>
 
-## Tabela de Conteúdos
+## Table of contents
 
- - [O Projeto](#subiter-call)
- - [Tecnologias](#tecnologias-utilizadas)
- - [Requisitos](#requisitos)
+ - [Project](#subiter-call)
+ - [Tecnology](#technologies-used)
+ - [Requirements](#requirements)
  - [Product Backlog](#product-backlog)  
- - [Execução do Programa](#executando-o-programa)
- - [Cronograma](#cronograma)
- - [Equipe](#equipe-phantom)
+ - [Executing the application](#executing-the-application)
+ - [Timeline](#timeline)
+ - [Team](#team-phantom)
 
 <br>
 
-## Tecnologias Utilizadas
-
+## Technologies Used
 <p align="center">
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=gold"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
-
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
@@ -62,30 +60,30 @@ transferência e etc).
  
 <br>
 
-## Requisitos
+## Requirements
 
-### 📌 Requisitos Funcionais
+### 📌 Functional Requirements
 
-#### Aplicação 1:
+#### Application 1:
 
- - Construir uma aplicação que rodará servidor local para configuração e parametrização do serviço.
- - Nessa aplicação, criar tela para configuração do sistema (com todas as configurações que a aplicação atual já tem) incluindo também a limitação de consumo de banda de rede e tempo para verificação de novos arquivos para download
- - Criar também, tela para configuração da conta de acesso a api (guardar de um jeito seguro).
- - Emitir alerta no S.O. avisando que novos arquivos foram baixados
- - Criar tela de histórico de arquivos baixados
+ - Build an application that will run on a local server to configure and configure the service.
+ - In this application, create a screen for system configuration (with all the settings that the current application already has) also including the limitation of network bandwidth consumption and time for checking new files for download
+ - Also create a screen for setting up the api access account (keep it safe).
+ - Issue an alert in the OS warning that new files have been downloaded
+ - Create downloaded file history screen
 
-#### Aplicação 2:
+#### Application 2:
 
- - Construir uma API que será o serviço que buscará os arquivos que devem ser enviados para Cloud
- - Conectar com a api de arquivos (utilizar outro fornecedor, diferente do usado no requisito anterior. Pode ser Google Drive, AWS S3, Dropbox e etc.)
- - Realizar o download dos arquivos, seguindo as configurações realizadas na aplicação 1.
- - Criar dashboard para acompanhamento das execuções (pode ser construído em alguma ferramenta de BI, movendo os dados do banco locar para outro)
+ - Build an API that will be the service that will fetch the files that must be sent to the Cloud
+ - Connect with the file API (use another provider, different from the one used in the previous requirement. It can be Google Drive, AWS S3, Dropbox, etc.)
+ - Download the files, following the settings made in the application 1.
+ - Create a dashboard to monitor executions (can be built in any BI tool, moving data from the local bank to another)
 
-### 📌 Requisitos Não Funcionais
+### 📌 Non-Functional Requirements
 
-#### Aplicação 1:
+#### Application 1:
 
- - Criar mecanismo de autenticação com a aplicação 2, hospedada na nuvem (para não aceitar requisição de locais não autorizados)
+- Create authentication mechanism with application 2, hosted in the cloud (to not accept requests from unauthorized locations)
 
 <br>
 
@@ -97,25 +95,25 @@ transferência e etc).
  
 <br>
 
-## Executando o programa 
-Acesse o passo a passo de como executar o programa clicando [AQUI](https://github.com/PhatomFatec/datatransfer-back/blob/main/Readme.md).
+## Executing the application 
+Access the step by step on how to run the program by clicking [Here](https://github.com/PhatomFatec/datatransfer-back/blob/main/Readme.md).
 
 <br>
 
-## Cronograma
+## Timeline
 
-| Eventos         | Início   | Fim      | Status |
+| Events          | Start    | End      | Status |
 |-----------------|----------|----------|--------|
-| **Kick off**    | 13/02/23 | 03/03/23 |   ✔️ Realizado      |
-| [Sprint 01](https://github.com/PhatomFatec/Midall-DataTransfer/blob/main/Sprints/Sprint01.md)   | 13/03/23 | 02/04/23 |   ✔️ Realizado       |
-| [Sprint 02](https://github.com/PhatomFatec/Midall-DataTransfer/blob/main/Sprints/Sprint02.md)   | 03/04/23 | 23/04/23 |   ⚙ Em progresso       |
-| [Sprint 03](https://github.com/PhatomFatec/Midall-DataTransfer/blob/main/Sprints/Sprint03.md)   | 24/04/23 | 14/05/23 |   ❌ Realizado      |
-| [Sprint 04](https://github.com/PhatomFatec/Midall-DataTransfer/blob/main/Sprints/Sprint04.md)   | 15/05/23 | 04/06/23 |   ❌ Realizado      |
-| **Apresentação final + Feira de Soluções** | 13/06/23 | 14/06/23 |   ❌ Realizado  |
+| **Kick off**    | 13/02/23 | 03/03/23 |   ✔️ Accomplished      |
+| [Sprint 01](https://github.com/PhatomFatec/Midall-DataTransfer/blob/main/Sprints/Sprint01.md)   | 13/03/23 | 02/04/23 |   ✔️ Accomplished       |
+| [Sprint 02](https://github.com/PhatomFatec/Midall-DataTransfer/blob/main/Sprints/Sprint02.md)   | 03/04/23 | 23/04/23 |   ✔️ Accomplished        |
+| [Sprint 03](https://github.com/PhatomFatec/Midall-DataTransfer/blob/main/Sprints/Sprint03.md)   | 24/04/23 | 14/05/23 |   ⚙ In progress     |
+| [Sprint 04](https://github.com/PhatomFatec/Midall-DataTransfer/blob/main/Sprints/Sprint04.md)   | 15/05/23 | 04/06/23 |   ❌ Accomplished      |
+| **Final presentation + Solutions Fair** | 13/06/23 | 14/06/23 |   ❌ Accomplished  |
 
 <br>
 
-## Equipe Phantom
+## Team Phantom
 
 * **DEV** - Marcus Rocha &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black"/>](https://www.linkedin.com/in/mvarocha/)
