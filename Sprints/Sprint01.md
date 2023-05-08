@@ -1,8 +1,7 @@
-
 <h1 align="center">Sprint 01</h1>
 
 <p align="center">
- <a href="#product-backlog">Product Backlog</a> |  <a href="#sprint-burndown">Burndown da sprint</a>
+ <a href="#product-backlog">Sprint Backlog</a> |  <a href="#sprint-burndown">Sprint Burndown</a>
 </p>
 
 <br>
