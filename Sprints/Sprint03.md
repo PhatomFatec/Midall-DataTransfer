@@ -45,7 +45,7 @@ The tasks developed for this third sprint will be:
 <br>
 
 <p align="center"> 
-<img src="https://media.discordapp.net/attachments/870416846338273280/1104185976668029018/2bd8003f-6511-4cb0-b3b5-e347f3866f48.jpg?width=945&height=580"/> <br>
+<img src="https://media.discordapp.net/attachments/887890002741170176/1105288990636130377/burndown.jpg?width=1002&height=562"/> <br>
 </p>
 
 <br>
