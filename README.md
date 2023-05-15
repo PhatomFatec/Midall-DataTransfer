@@ -107,8 +107,8 @@ Access the step by step on how to run the program by clicking [Here](https://git
 | **Kick off**    | 13/02/23 | 03/03/23 |   ✔️ Accomplished      |
 | [Sprint 01](https://github.com/PhatomFatec/Midall-DataTransfer/blob/main/Sprints/Sprint01.md)   | 13/03/23 | 02/04/23 |   ✔️ Accomplished       |
 | [Sprint 02](https://github.com/PhatomFatec/Midall-DataTransfer/blob/main/Sprints/Sprint02.md)   | 03/04/23 | 23/04/23 |   ✔️ Accomplished        |
-| [Sprint 03](https://github.com/PhatomFatec/Midall-DataTransfer/blob/main/Sprints/Sprint03.md)   | 24/04/23 | 14/05/23 |   ⚙ In progress     |
-| [Sprint 04](https://github.com/PhatomFatec/Midall-DataTransfer/blob/main/Sprints/Sprint04.md)   | 15/05/23 | 04/06/23 |   ❌ Accomplished      |
+| [Sprint 03](https://github.com/PhatomFatec/Midall-DataTransfer/blob/main/Sprints/Sprint03.md)   | 24/04/23 | 14/05/23 |   ✔️ Accomplished     |
+| [Sprint 04](https://github.com/PhatomFatec/Midall-DataTransfer/blob/main/Sprints/Sprint04.md)   | 15/05/23 | 04/06/23 |   ⚙ In progress     |
 | **Final presentation + Solutions Fair** | 13/06/23 | 14/06/23 |   ❌ Accomplished  |
 
 <br>
