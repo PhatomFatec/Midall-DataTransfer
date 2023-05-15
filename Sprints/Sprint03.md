@@ -29,6 +29,7 @@ The tasks developed for this third sprint will be:
     * Adaptation in the accessibility of screen functions based on the actions performed.
     * Improved history screen components.
     * Add filters on the history screen (period, file name, file extension)
+ - **Possibility of reversing the transfer flow**
     
 <br>
  
