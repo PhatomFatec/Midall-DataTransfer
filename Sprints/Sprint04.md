@@ -13,15 +13,22 @@
 The tasks developed for this fourth sprint will be:
 
 
-- **Transfer stream selection**
-- **Choice of transfer time (execution routine)**
-- **Selected connection check**
-- **Option to enable/disable registered connections**
-- **Connection verification between APIs (connection security)**
+- **Develop logic to determine transfer time (execution routine)**
+- **Verify status of selected connection**
+- **Validate security of API connections**
+- **Handle AWS authentication credentials**
+- **Store credentials in an in-memory database (H2)**
+- **Develop credentials screen (Google and AWS)**
+- **Document Issue control**
+- **Create documentation for the GitHub workflow used**
+- **Create documentation for the DevOps lifecycle**
+- **Adjust settings screen**
+- **Adjust history screen**
+- **Refine overall frontend**
     
 <br>
  
-<!-- **Here is the sprint Board link to follow up on detailed tasks:** &nbsp; [Board](https://github.com/orgs/PhatomFatec/projects/4/views/1?visibleFields=%5B%22Title%22%2C%22Assignees%22%2C%22Status%22%2C%22Labels%22%2C%22Milestone%22%5D) -->
+**Here is the sprint Board link to follow up on detailed tasks:** &nbsp; [Board](https://github.com/orgs/PhatomFatec/projects/5/views/1) 
   
 <br>
 
