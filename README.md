@@ -60,6 +60,14 @@ transfer, etc.).
  
 <br>
 
+## DevOps concepts
+
+DevOps is a software development approach that combines development and operations teams to streamline processes and deliver high-quality software more efficiently. It fosters collaboration, automation, and continuous improvement. The benefits of DevOps include increased collaboration and communication, continuous integration and delivery, faster time to market, improved software quality, enhanced reliability and stability, scalability and flexibility, continuous monitoring and feedback, and cost optimization. Overall, DevOps aligns teams, accelerates software delivery, improves quality, and enhances customer satisfaction.
+
+  - To see details about Used **DevOps** concepts, follow the [link](https://github.com/PhatomFatec/Midall-DataTransfer/blob/main/devops.md)
+ 
+<br>
+
 ## Requirements
 
 ### 📌 Functional Requirements
