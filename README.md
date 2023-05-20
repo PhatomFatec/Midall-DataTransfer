@@ -64,7 +64,20 @@ transfer, etc.).
 
 DevOps is a software development approach that combines development and operations teams to streamline processes and deliver high-quality software more efficiently. It fosters collaboration, automation, and continuous improvement. The benefits of DevOps include increased collaboration and communication, continuous integration and delivery, faster time to market, improved software quality, enhanced reliability and stability, scalability and flexibility, continuous monitoring and feedback, and cost optimization. Overall, DevOps aligns teams, accelerates software delivery, improves quality, and enhances customer satisfaction.
 
-  - To see details about Used **DevOps** concepts, follow the [link](https://github.com/PhatomFatec/Midall-DataTransfer/blob/main/devops.md)
+Used devops concepts and their authors:
+----
+
+| Concept   | Author |
+|--------|-----|
+| Organization of activation of continuous integration focused on the application   | Lucas Guiraldelli  |
+| Back-end unit tests using JUnit and mockito | Igor Ribeiro  |
+| Front-end unit tests using Jest  | Marcus Augusto |
+| Management and tracking of issues on the project  | Lara Leal  |
+| Ensure use of gitflow methodology for repository organization  | All  |
+
+<br>
+
+ To see details about Used **DevOps** concepts, follow the [link](https://github.com/PhatomFatec/Midall-DataTransfer/blob/main/devops.md)
  
 <br>
 
