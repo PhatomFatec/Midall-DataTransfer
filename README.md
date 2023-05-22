@@ -15,7 +15,7 @@
 
 <p align="center">
  <a href="#executing-the-application">Executing the application</a> |  <a href="#technologies-used">Technologies</a> |  <a href="#timeline">Timeline</a> 
- |  <a href="#team-phantom">Team</a> |  <a href="#devops-concepts">DevOps</a> |  
+ |  <a href="#team-phantom">Team</a> |  <a href="#devops-concepts">DevOps</a> 
 </p>
 
 <h3 align="center">Problem</h3>
