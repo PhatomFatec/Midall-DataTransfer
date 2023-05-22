@@ -15,7 +15,7 @@
 
 <p align="center">
  <a href="#executing-the-application">Executing the application</a> |  <a href="#technologies-used">Technologies</a> |  <a href="#timeline">Timeline</a> 
- |  <a href="#team-phantom">Team</a>
+ |  <a href="#team-phantom">Team</a> |  <a href="#devops-concepts">DevOps</a> |  
 </p>
 
 <h3 align="center">Problem</h3>
@@ -35,8 +35,8 @@ transfer, etc.).
 
 ## Table of contents
 
- - [Project](#subiter-call)
  - [Tecnology](#technologies-used)
+ - [DevOps](#devops-concepts)
  - [Requirements](#requirements)
  - [Product Backlog](#product-backlog)  
  - [Executing the application](#executing-the-application)
