@@ -29,19 +29,15 @@ The tasks developed for this fourth sprint will be:
 <br>
  
 **Here is the sprint Board link to follow up on detailed tasks:** &nbsp; [Board](https://github.com/orgs/PhatomFatec/projects/5/views/1) 
-  
-<br>
-
 
 <br>
-<!-- 
+
 ## Sprint Burndown
-
-<!-- ### 25/04/2023 a 15/05/2023
+### 15/05/2023 a 04/06/2023
 <br>
 
 <p align="center"> 
-<img src="https://media.discordapp.net/attachments/870416846338273280/1104185976668029018/2bd8003f-6511-4cb0-b3b5-e347f3866f48.jpg?width=945&height=580"/> <br> -->
+<img src="https://media.discordapp.net/attachments/870416846338273280/1110358829738246154/84ec07d0-a475-439a-b47a-473c66268abb.jpg?width=952&height=580"/> <br>
 </p> 
 
 <br>
