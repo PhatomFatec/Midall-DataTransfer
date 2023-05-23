@@ -69,11 +69,11 @@ Used devops concepts and their authors:
 
 | Concept   | Author |
 |--------|-----|
-| Organization of activation of continuous integration focused on the application   | Lucas Guiraldelli  |
-| Back-end unit tests using JUnit and mockito | Igor Ribeiro  |
-| Front-end unit tests using Jest  | Marcus Augusto |
-| Management and tracking of issues on the project  | Lara Leal  |
-| Ensure use of gitflow methodology for repository organization  | All  |
+| Organization of activation of continuous integration focused on the application   | [Lucas Guiraldelli](https://www.linkedin.com/in/lucasguiraldelli/)  |
+| Back-end unit tests using JUnit and mockito | [Igor Ribeiro](https://www.linkedin.com/in/igor-ribeiro-8571a6210/)  |
+| Front-end unit tests using Jest  | [Marcus Augusto](https://www.linkedin.com/in/mvarocha/) |
+| Management and tracking of issues on the project  | [Lara Leal](https://www.linkedin.com/in/lara-leal-527b7020a/) |
+| Ensure use of gitflow methodology for repository organization  | [All](https://github.com/PhatomFatec/)  |
 
 <br>
 
