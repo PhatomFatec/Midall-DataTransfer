@@ -31,6 +31,8 @@ Follow the link to get more information about [Gitflow](https://www.atlassian.co
 
 ## Continuos Integration
 
+Continuous Integration (CI) is a software development practice that involves automatically integrating code changes from multiple developers into a shared repository frequently. It aims to catch integration issues early by regularly merging code and running automated builds, tests, and analyses. CI detects problems like compilation errors or test failures caused by code conflicts or compatibility issues. By integrating changes frequently, CI promotes collaboration, provides immediate feedback to developers, and ensures a more reliable and stable software development process. CI tools like Jenkins or Travis CI automate the build and test processes, enhancing productivity and quality while enabling faster software delivery.
+
 ## Github Actions
 
 ## Unit Tests
