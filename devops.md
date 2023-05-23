@@ -25,6 +25,10 @@ For issue control in this project, we used documentation methodologies and integ
 
 ## Gitflow
 
+GitFlow is a popular branching model for Git repositories that streamlines collaborative software development. It defines long-lived branches like main and development, with feature branches created from the development branch for implementing specific tasks. Completed features are merged back into the development branch, promoting frequent integration. Release branches allow for final bug fixes before deployment, while hotfix branches address critical production issues. The main branch represents stable code, only updated when releases or hotfixes are merged. GitFlow ensures structured workflows, encourages collaboration, and facilitates scalability and traceability in managing complex software projects. Other models like GitHub Flow and GitLab Flow offer alternative approaches to version control.
+
+Follow the link to get more information about [Gitflow](https://www.atlassian.com/br/git/tutorials/comparing-workflows/gitflow-workflow)
+
 ## Continuos Integration
 
 ## Github Actions
