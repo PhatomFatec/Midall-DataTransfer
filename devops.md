@@ -1,11 +1,28 @@
 # Used DevOps concepts
-<br>
+DevOps is a software development approach that combines development and operations teams to streamline processes and deliver high-quality software more efficiently. It fosters collaboration, automation, and continuous improvement. The benefits of DevOps include increased collaboration and communication, continuous integration and delivery, faster time to market, improved software quality, enhanced reliability and stability, scalability and flexibility, continuous monitoring and feedback, and cost optimization. Overall, DevOps aligns teams, accelerates software delivery, improves quality, and enhances customer satisfaction.
 
 ## Table of contents
 
- - [Github Actions](#continuos-itegration)
+ - [Issue Control](#issue-control)
+ - [Gitflow](#gitflow)
+ - [Continuos Integration](#continuos-integration)
+ - [Github Actions](#github-actions)
+ - [Unit Tests](#unit-tests)
+ - [Backend Tests](#backend-tests)
+ - [Frontend Tests](#frontend-tests)
 
+
+## Issue Control
+
+## Gitflow
 
 ## Continuos Integration
 
-**GitFlow** is a branching model for version control using Git that provides a structured workflow for teams working on code repositories. It separates work into different branches like feature branches, release branches, and hotfix branches. The main benefits of GitFlow include clear structure, isolation of work, efficient version control, simplified release management, and enhanced collaboration and code review. Overall, GitFlow streamlines development, improves code quality, and facilitates teamwork.
+## Github Actions
+
+## Unit Tests
+
+## Backend Tests
+
+## Frontend Tests
+
