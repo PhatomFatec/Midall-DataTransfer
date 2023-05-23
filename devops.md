@@ -14,6 +14,10 @@ DevOps is a software development approach that combines development and operatio
 
 ## Issue Control
 
+Issue control in a DevOps project refers to the management and resolution of problems or difficulties that arise during the development, implementation, and continuous operation of a system or software. It involves the proactive identification of issues, registration and tracking of problems, prioritization, resolution, communication, and continuous learning. Effective issue control helps teams identify and address problems quickly, improving the quality of the delivered software and user satisfaction.
+
+
+
 ## Gitflow
 
 ## Continuos Integration
