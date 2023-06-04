@@ -37,7 +37,7 @@ The tasks developed for this fourth sprint will be:
 <br>
 
 <p align="center"> 
-<img src="https://media.discordapp.net/attachments/887890002741170176/1112869715027697677/brunodown.jpg?width=906&height=562"/> <br>
+<img src="https://media.discordapp.net/attachments/870416846338273280/1115000050653872148/image.png?width=1000&height=618"/> <br>
 </p> 
 
 <br>
