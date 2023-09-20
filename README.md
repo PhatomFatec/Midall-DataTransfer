@@ -1,4 +1,4 @@
-**Phantom Presents:** Integrator Project, Fatec Prof. Jessen Vidal - 2022. 5th Semester <br>
+**Phantom Presents:** Integration Project, Fatec Prof. Jessen Vidal - 2022. 5th Semester <br>
 **Client:** <a href="https://www.midall.com.br//">MidAll</a>
 
 <br><p align="center">
